@@ -57,3 +57,27 @@ Verify that your Gemini API key is valid and that your API quota has not been ex
 
 # Acknowledgements
 Team **Crafty Coders** for their contributions during the hackathon.
+
+# outputs
+- home page
+  ![Home Page](output/1.png)
+- signup Form
+  ![signup Form](output/2.png)
+- login From
+  ![login Form](output/3.png)
+- dashboard
+  ![dashboard](output/4.png)
+- upload
+  ![upload](output/5.png)
+  **upload successful**
+  ![upload](output/6.png)
+- analyze
+  ![analyze](output/7.png)
+- ai chart
+  ![chart](output/8.png)
+- log out
+  ![log out](output/9.png)
+- mongoDB
+  ![mongoDB](output/10.png)
+  **user uploaded dataset**
+  ![mongoDB](output/11.png)
