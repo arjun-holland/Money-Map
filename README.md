@@ -55,8 +55,5 @@ Double-check your MONGO_URI in the environment variables if you encounter connec
 - **API Issues**:
 Verify that your Gemini API key is valid and that your API quota has not been exceeded.
 
-# License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 # Acknowledgements
-Team Crafty Coders for their contributions during the hackathon.
+Team **Crafty Coders** for their contributions during the hackathon.
